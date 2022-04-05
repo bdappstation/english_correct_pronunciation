@@ -4,6 +4,7 @@
         android:label="ইংরেজি শুদ্ধ উচ্চারণের ৫০ টি নিয়ম"
         android:icon="@mipmap/launcher_icon">
         <activity
+            android:exported="true"
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"

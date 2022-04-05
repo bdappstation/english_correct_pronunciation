@@ -121,11 +121,11 @@ class _SixToTenRulesPageState extends State<SixToTenRulesPage> {
       ),
       bottomNavigationBar: Container(
         height: 52,
-        color: Colors.brown[200],
-        child: AdWidget(
-          key: UniqueKey(),
-          ad: AdmobHelper.getBannerAd()..load(),
-        ),
+        color: Colors.cyan,
+        // child: AdWidget(
+        //   key: UniqueKey(),
+        //   ad: AdmobHelper.getBannerAd()..load(),
+        // ),
       ),
     );
   }

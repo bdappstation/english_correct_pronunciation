@@ -47,8 +47,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => OneToFiveRulesPage(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -66,8 +66,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => SixToTenRulesPage(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -85,8 +85,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => RulesElevenToFifteenPage(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -104,8 +104,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => RulesSixteenToTwentyPage(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -123,8 +123,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => RulesTwentyOneToTwentyFive(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -142,8 +142,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => RulesTwentySixToThirtyPage(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -161,8 +161,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => RulesThirtyOneToThirtyFive(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -180,8 +180,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => RulesThirtySixToForty(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -199,8 +199,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => RulesFortyOneToFortyFive(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
@@ -218,8 +218,8 @@ class _ListScreenState extends State<ListScreen> {
                       builder: (context) => RulesFortySixToFifty(),
                     )
                 );
-                admobHelper.createInterAd();
-                admobHelper.showInterAd();
+                // admobHelper.createInterAd();
+                // admobHelper.showInterAd();
               },
             ),
           ),
